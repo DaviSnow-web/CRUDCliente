@@ -1,0 +1,13 @@
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/bean/ClienteBean.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/dao/EstadoDAO.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/bean/CidadeBean.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/dao/GenericDAO.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/dao/CidadeDAO.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/domain/GenericDomain.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/domain/Estado.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/util/HibernateUtil.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/dao/ClienteDAO.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/domain/Cidade.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/bean/EstadoBean.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/util/HibernateContexto.java
+/home/davi/NetBeansProjects/NovoProjeto/src/main/java/br/com/NovoProjeto/domain/Cliente.java

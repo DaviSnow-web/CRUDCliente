@@ -1,0 +1,14 @@
+br/com/NovoProjeto/bean/EstadoBean.class
+br/com/NovoProjeto/domain/Cidade.class
+br/com/NovoProjeto/domain/GenericDomain.class
+br/com/NovoProjeto/dao/CidadeDAO.class
+br/com/NovoProjeto/bean/CidadeBean.class
+br/com/NovoProjeto/domain/Estado.class
+br/com/NovoProjeto/util/HibernateUtil.class
+br/com/NovoProjeto/domain/Cliente.class
+br/com/NovoProjeto/bean/ClienteBean.class
+br/com/NovoProjeto/util/HibernateContexto.class
+br/com/NovoProjeto/dao/EstadoDAO.class
+br/com/NovoProjeto/dao/GenericDAO.class
+br/com/NovoProjeto/util/HibernateUtil$1.class
+br/com/NovoProjeto/dao/ClienteDAO.class
